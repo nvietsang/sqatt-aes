@@ -1,4 +1,13 @@
-# Commands
+# Overview
+This work performs the Square Attack on 4-round AES-128 and 5-round AES-128. The steps includes the implementation of AES-128 and then the implementation of attacks.
+
+To understand the principle of this attack, reading the blog of David Wong is highly recommended: [https://www.davidwong.fr/blockbreakers/square.html](https://www.davidwong.fr/blockbreakers/square.html)
+
+# Authors
+- Viet-Sang Nguyen
+- Thi-Thuy-Dung Bui
+
+# Usage
 
 ## Compile
 ```
